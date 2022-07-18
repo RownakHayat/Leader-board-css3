@@ -17,6 +17,9 @@ hr{
 }
 
 /* top players style */
+.top-players{
+    margin-buttom : 30px;
+}
 
 .section-title{
    color: blueviolet;
